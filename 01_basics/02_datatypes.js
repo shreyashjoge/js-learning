@@ -12,6 +12,7 @@ let name = "shreyash"
 let age = 25
 let isLoggedIN = true
 
+// primitive datatypes
 // number => 2 to power 53
 // bigint => used for bigger website, for bigger number
 // string => ""
@@ -22,4 +23,5 @@ let isLoggedIN = true
 
 // object
 
-console.log(typeof undefined);
+console.log(typeof undefined); // undefined
+console.log(typeof null); // object
